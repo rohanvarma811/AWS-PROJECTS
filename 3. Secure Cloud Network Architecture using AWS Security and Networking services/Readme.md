@@ -2,6 +2,11 @@
 
 AWS (Amazon Web Services) provides multiple layers of security to protect resources and data within its cloud infrastructure. Two important components for network security in AWS are Security Groups and Network Access Control Lists (NACLs). Let's explore how each of them works:
 
+
+## Project Architecture Diagram
+
+![Screenshot 2023-06-29 at 12 14 32 AM](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/30bbc9e8-6502-438b-8adf-ece8b81edce9)
+
 ## Project Setup:
 1️⃣ Setting Up the AWS Environment
 
