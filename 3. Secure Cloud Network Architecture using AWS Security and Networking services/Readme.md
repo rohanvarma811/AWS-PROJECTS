@@ -64,12 +64,12 @@ AWS (Amazon Web Services) provides multiple layers of security to protect resour
 1. Blocked an IP in NACL and checked if it was denied access
 2. Logged access attempts using VPC Flow Logs
 
-- ✅ Final Outcome
+# Output & Learnings
 
-  ✔️ Secure Public EC2: Only accessible via SSH from a trusted IP and allows HTTP/HTTPS traffic
+✔️ Secure Public EC2: Only accessible via SSH from a trusted IP and allows HTTP/HTTPS traffic
   
-  ✔️ Secure Private EC2: No direct internet access, only accessible via Public EC2
+✔️ Secure Private EC2: No direct internet access, only accessible via Public EC2
   
-  ✔️ Network ACLs Enforcing Rules: Prevent unauthorized access at the subnet level
+✔️ Network ACLs Enforcing Rules: Prevent unauthorized access at the subnet level
   
-  ✔️ Security Groups Ensuring Fine-Grained Control: Instance-level access restrictions applied
+✔️ Security Groups Ensuring Fine-Grained Control: Instance-level access restrictions applied
