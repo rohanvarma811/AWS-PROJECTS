@@ -1,4 +1,4 @@
-# 4. AWS Deployment with Bastion Host, Private Subnet EC2, and Load Balancer
+# AWS Deployment with Bastion Host, Private Subnet EC2, and Load Balancer
 
 This project demonstrates secure deployment of a Python-based web application inside a **private subnet** with access via a **Bastion Host**, and **load-balanced** using an Application Load Balancer (ALB). It closely simulates real-world cloud architecture used in production.
 
